@@ -1,17 +1,17 @@
 <h2 align="left">Hi 👋! My name is Ahmed, and I'm a Web Developer from Italy.</h2>
 
 <p align="left">
-  🎓 I am currently a student honing my skills in <strong>Python</strong> and web development. I have gained proficiency in various technologies including:
+  🎓 I’m a student working on improving my skills in Python and web development. I’ve learned to use different technologies, including:
 </p>
 
-- 🧰 **Backend Tools**: Flask, SQLAlchemy, BeautifulSoup, Selenium, Tkinter, OOP
+- 🧰 **Backend Tools**: Flask, SQLAlchemy
 - 🎨 **Frontend Skills**: HTML5, CSS3, Bootstrap 5
 - ☁️ **Cloud & DevOps**: Microsoft Azure
-- 🔗 **APIs**: Integration and development
-- 🔧 **Other**: Git, GitHub
+- 🔗 **APIs**: Integration and development (with Flask)
+- 🔧 **Other**: Git, GitHub, BeautifulSoup, Selenium
 
 <p align="left">
-  🔭 My current focus is to deepen my understanding of backend development and learn how to efficiently create scalable web applications. After this, I plan to explore frontend web development in more depth to become a full-stack developer.
+  🔭 My current goal is to improve my skills in backend development and learn how to build web applications that can handle growth. After that, I plan to learn more about frontend development so I can become a full-stack developer.
 </p>
 
 <div align="center">
