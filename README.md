@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ahmed, and I'm a Web Developer from Italy.</h2>
+<h2 align="left">Hi 👋! My name is Ahmed</h2>
 
 <p align="left">
   🎓 I’m a student working on improving my skills in Python and web development. I’ve learned to use different technologies, including:
@@ -9,10 +9,6 @@
 - ☁️ **Cloud & DevOps**: Microsoft Azure
 - 🔗 **APIs**: Integration and development (with Flask)
 - 🔧 **Other**: Git, GitHub, BeautifulSoup, Selenium
-
-<p align="left">
-  🔭 My current goal is to improve my skills in backend development and learn how to build web applications that can handle growth. After that, I plan to learn more about frontend development so I can become a full-stack developer.
-</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Maher70&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
